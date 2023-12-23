@@ -14,4 +14,4 @@ type the following:
 java -jar "ChessGame.jar" 
 
 
-![START_GAME!](Chess-Game\gitimage1.PNG)
+![START_GAME!](C:\Users\molin\OneDrive\Documents\Projects\Chess-Game\gitimage1.PNG)
