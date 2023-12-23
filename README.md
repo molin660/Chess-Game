@@ -13,5 +13,4 @@ type the following:
 
 java -jar "ChessGame.jar" 
 
-
-![START_GAME!](C:\Users\molin\OneDrive\Documents\Projects\Chess-Game\gitimage1.PNG)
+<img width="369" alt="gitimage1" src="https://github.com/molin660/Chess-Game/assets/140565406/d2da01a1-0845-4288-9267-3ac0fa9f8257">
